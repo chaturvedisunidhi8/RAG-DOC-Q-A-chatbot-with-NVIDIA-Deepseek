@@ -1,0 +1,8 @@
+openai
+python-dotenv
+langchain_community
+langchain_nvidia_ai_endpoints   # langchain integration for nvidia ai endpoints
+faiss-cpu
+streamlit
+pypdf
+
