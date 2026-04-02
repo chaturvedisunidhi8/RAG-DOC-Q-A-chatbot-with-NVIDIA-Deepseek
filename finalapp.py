@@ -23,7 +23,7 @@ llm = ChatNVIDIA(model="deepseek-ai/deepseek-v3.1-terminus")
 # Function to create vector embeddings from PDFs
 def vector_embeddings():
     if "vectors" not in st.session_state: 
-        with st.spinner("📄 Loading PDFs and creating embeddings..."):
+        with st.spinner("📄 Loading PDFs and creating embeddings..."): 
             # Initialize NVIDIA embeddings
             st.session_state.embeddings = NVIDIAEmbeddings()
             
