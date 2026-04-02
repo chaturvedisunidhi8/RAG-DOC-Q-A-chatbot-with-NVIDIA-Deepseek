@@ -9,7 +9,7 @@ It uses FAISS vector database for efficient similarity search and NVIDIA Embeddi
 
 Key Features
 
-✨ PDF Loader: Upload or load multiple PDF files at once.
+PDF Loader: Upload or load multiple PDF files at once.
 🧠 NVIDIA DeepSeek Model: Smart, accurate, and context-sensitive responses powered by deepseek-ai/deepseek-v3.1-terminus.
 🔍 Vector Database (FAISS): Quickly retrieves the most relevant text chunks from your PDFs.
 ⚙️ RAG Pipeline: Combines retrieval + generation to provide precise answers.
