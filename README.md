@@ -23,7 +23,7 @@ Embeddings	NVIDIAEmbeddings
  Document Loader	PyPDFDirectoryLoader
  Vector Store	FAISS
  Framework	Streamlit
-🧱 LangChain Components	RetrievalQA, PromptTemplate
+ LangChain Components	RetrievalQA, PromptTemplate
 ⚙️ Workflow
 
 1️⃣ Load PDFs from a folder or upload directly.
