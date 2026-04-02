@@ -24,7 +24,8 @@ Embeddings	NVIDIAEmbeddings
  Vector Store	FAISS
  Framework	Streamlit
  LangChain Components	RetrievalQA, PromptTemplate
-⚙️ Workflow
+ 
+ Workflow
 
 1️⃣ Load PDFs from a folder or upload directly.
 2️⃣ Split text into chunks using RecursiveCharacterTextSplitter.
