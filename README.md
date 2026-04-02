@@ -34,22 +34,22 @@ Embeddings	NVIDIAEmbeddings
 5️⃣ Use RetrievalQA to retrieve relevant context and generate an answer.
 6️⃣ Display response and show the supporting document chunks.
 
-🧠 How It Works (RAG Pipeline)
-PDFs ➜ Split ➜ Embeddings ➜ FAISS Retrieval ➜ NVIDIA LLM ➜ Final Answer
+ How It Works (RAG Pipeline)
+ PDFs ➜ Split ➜ Embeddings ➜ FAISS Retrieval ➜ NVIDIA LLM ➜ Final Answer
 
 
 🔹 Retrieval: Finds the most relevant chunks.
 🔹 Augmentation: Adds them as context.
 🔹 Generation: LLM (DeepSeek) produces an informed answer.
 
-💻 Usage
+ Usage
 
-1️⃣ Place your PDF files inside a folder named “SIH”
-2️⃣ Run the Streamlit app:
+1️ Place your PDF files inside a folder named “SIH”
+2️ Run the Streamlit app:
 
 streamlit run app.py
 
 
-3️⃣ Click “⚙️ Create Document Embeddings”
-4️⃣ Ask any question in the text box 🗨️
-5️⃣ View the result + source context inside the expander section.
+3️ Click “ Create Document Embeddings”
+4️ Ask any question in the text box 
+5️ View the result + source context inside the expander section.
