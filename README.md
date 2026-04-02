@@ -1,13 +1,13 @@
-🤖 RAG-DOC-Q-A-Chatbot-with-NVIDIA-DeepSeek
+RAG-DOC-Q-A-Chatbot-with-NVIDIA-DeepSeek
 
-🚀 RAG (Retrieval-Augmented Generation) powered Document Q/A Chatbot that lets you ask questions directly from your PDFs using NVIDIA DeepSeek — an advanced Large Language Model hosted on NVIDIA AI Endpoints.
+RAG (Retrieval-Augmented Generation) powered Document Q/A Chatbot that lets you ask questions directly from your PDFs using NVIDIA DeepSeek — an advanced Large Language Model hosted on NVIDIA AI Endpoints.
 
-📘 Project Overview
+Project Overview
 
 This Streamlit-based chatbot combines document retrieval and LLM reasoning to deliver accurate, context-aware answers from your own files.
 It uses FAISS vector database for efficient similarity search and NVIDIA Embeddings for generating semantic representations of your document text.
 
-🧩 Key Features
+Key Features
 
 ✨ PDF Loader: Upload or load multiple PDF files at once.
 🧠 NVIDIA DeepSeek Model: Smart, accurate, and context-sensitive responses powered by deepseek-ai/deepseek-v3.1-terminus.
