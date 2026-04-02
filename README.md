@@ -20,8 +20,8 @@ Tech Stack
 Component	Technology
 LLM	NVIDIA DeepSeek via LangChain
 Embeddings	NVIDIAEmbeddings
-🗂️ Document Loader	PyPDFDirectoryLoader
-⚡ Vector Store	FAISS
+ Document Loader	PyPDFDirectoryLoader
+ Vector Store	FAISS
 🌐 Framework	Streamlit
 🧱 LangChain Components	RetrievalQA, PromptTemplate
 ⚙️ Workflow
