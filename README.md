@@ -22,7 +22,7 @@ LLM	NVIDIA DeepSeek via LangChain
 Embeddings	NVIDIAEmbeddings
  Document Loader	PyPDFDirectoryLoader
  Vector Store	FAISS
-🌐 Framework	Streamlit
+ Framework	Streamlit
 🧱 LangChain Components	RetrievalQA, PromptTemplate
 ⚙️ Workflow
 
