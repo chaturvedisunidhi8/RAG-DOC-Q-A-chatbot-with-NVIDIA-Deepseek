@@ -38,9 +38,9 @@ Embeddings	NVIDIAEmbeddings
  PDFs ➜ Split ➜ Embeddings ➜ FAISS Retrieval ➜ NVIDIA LLM ➜ Final Answer
 
 
-🔹 Retrieval: Finds the most relevant chunks.
-🔹 Augmentation: Adds them as context.
-🔹 Generation: LLM (DeepSeek) produces an informed answer.
+ Retrieval: Finds the most relevant chunks.
+ Augmentation: Adds them as context.
+ Generation: LLM (DeepSeek) produces an informed answer.
 
  Usage
 
