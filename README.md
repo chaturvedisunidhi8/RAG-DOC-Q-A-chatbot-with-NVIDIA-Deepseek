@@ -31,7 +31,7 @@ Embeddings	NVIDIAEmbeddings
 2️ Split text into chunks using RecursiveCharacterTextSplitter.
 3️ Create embeddings with NVIDIAEmbeddings.
 4️ Store vectors in FAISS.
-5️⃣ Use RetrievalQA to retrieve relevant context and generate an answer.
+5️ Use RetrievalQA to retrieve relevant context and generate an answer.
 6️⃣ Display response and show the supporting document chunks.
 
  How It Works (RAG Pipeline)
