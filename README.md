@@ -32,7 +32,7 @@ Embeddings	NVIDIAEmbeddings
 3️ Create embeddings with NVIDIAEmbeddings.
 4️ Store vectors in FAISS.
 5️ Use RetrievalQA to retrieve relevant context and generate an answer.
-6️⃣ Display response and show the supporting document chunks.
+6️ Display response and show the supporting document chunks.
 
  How It Works (RAG Pipeline)
  PDFs ➜ Split ➜ Embeddings ➜ FAISS Retrieval ➜ NVIDIA LLM ➜ Final Answer
