@@ -28,7 +28,7 @@ Embeddings	NVIDIAEmbeddings
  Workflow
 
 1️ Load PDFs from a folder or upload directly.
-2️⃣ Split text into chunks using RecursiveCharacterTextSplitter.
+2️ Split text into chunks using RecursiveCharacterTextSplitter.
 3️⃣ Create embeddings with NVIDIAEmbeddings.
 4️⃣ Store vectors in FAISS.
 5️⃣ Use RetrievalQA to retrieve relevant context and generate an answer.
