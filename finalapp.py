@@ -18,7 +18,7 @@ os.environ["NVIDIA_API_KEY"] = os.getenv("NVIDIA_API_KEY")
 st.title("📘 RAG Document Q/A Chatbot with NVIDIA DeepSeek")
 
 # Initialize LLM
-llm = ChatNVIDIA(model="deepseek-ai/deepseek-v3.1-terminus")
+llm = ChatNVIDIA(model="deepseek-ai/deepseek-v3.1-terminus") 
 
 # Function to create vector embeddings from PDFs
 def vector_embeddings():
